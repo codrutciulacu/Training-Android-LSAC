@@ -73,6 +73,7 @@ Android este un sistem de operare destinat device-urilor mobile. Acesta platform
     - layout manager
     - view holder
     - adapter
+
 ![RecyclerView](/docs/grafic-recyclerview.png "RecyclerView")
 
 ## Activities
