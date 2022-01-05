@@ -21,7 +21,7 @@ Android este un sistem de operare destinat device-urilor mobile. Acesta platform
 6. Apasa pe butonul de **Finish**
 
 ## Structura unui proiect Android
-(/docs/grafic-structura.png Structura proiectului)
+![Strictura unui proiect](/docs/grafic-structura.png Structura proiectului)
 
 ## Intro to Java
 
@@ -73,12 +73,12 @@ Android este un sistem de operare destinat device-urilor mobile. Acesta platform
     - layout manager
     - view holder
     - adapter
-(/docs/grafic-recyclerview.png RecyclerView)
+![RecyclerView](/docs/grafic-recyclerview.png RecyclerView)
 
 ## Activities
 - o activitate este un ecran al aplicatiei 
 - fiecare activitate are un lifecycle(o serie de metode apelate in functie de starea in care se afla aplicatia)
-(/docs/grafic-activity-lifecycle.png Activity Lifecycle)
+![Activity Lifecycle](/docs/grafic-activity-lifecycle.png Activity Lifecycle)
 
 ## Intents
 - este un obiect folosit pentru a cere o actiune catre alta componenta a aplicatiei
